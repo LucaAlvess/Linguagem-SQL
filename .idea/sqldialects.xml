@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/atualizarEstados.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/consultarEstados.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/criar-tabela-estado.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/deletarEstados.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/inserirEstados1.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/inserirEstadosComId.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/atualizar/atualizarEstados.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/consultas/consultarEstados.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/criar tabela/criar-tabela-estado.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/deletar/deletarEstados.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/inserir/inserirEstados1.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/inserir/inserirEstadosComId.sql" dialect="MySQL" />
   </component>
 </project>
